@@ -122,8 +122,8 @@ print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
 <br/>
 <br/>
 <p align="center">
-    <a href="https://www.linkedin.com/in/Lameck bett" target="blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lameck bett" height="25" width="25" />
+    <a href="https://www.linkedin.com/in/Lameckbett" target="blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lameckbett" height="25" width="25" />
     </a> 
     &nbsp;&nbsp;
     <a href="https://twitter.com/Lameckbett1" target="blank">
