@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">
-    Client Strategy & Insights Specialist @ Indeed
+    Client Strategy & Insights Specialist @ 
     <br/>
     Data/Machine Learning | Web Developer | Software Engineer|GIS Expert |Geophysicist|
 </h3>
