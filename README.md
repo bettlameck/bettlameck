@@ -4,7 +4,7 @@
     <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
     <img src="https://octodex.github.com/images/mona-the-rivetertocat.png" height="160px" width="160px">
 </p>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lameck-bett" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/lameck-bett?trk=profile-badge">Lameck Bett</a></div>
               
 <h1 align="center">
